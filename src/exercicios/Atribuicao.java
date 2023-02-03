@@ -14,7 +14,6 @@ public class Atribuicao {
 		c /= a; // mesma coisa c = c / a;
 		
 		
-		c++; // c = c + 1;
 		System.out.println(c);
 		
 		c %= 2; // c = c % 2; 0 ou 1;
